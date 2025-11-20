@@ -13,5 +13,6 @@ public class Main {
         card_2.info();
         System.out.println();
         card_3.info();
+        System.out.println("Привет мир");
     }
 }
